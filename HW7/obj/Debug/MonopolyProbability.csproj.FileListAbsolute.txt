@@ -1,0 +1,6 @@
+C:\Users\Shelby\Desktop\HW5\HW7\HW7\bin\Debug\HW7.exe.config
+C:\Users\Shelby\Desktop\HW5\HW7\HW7\bin\Debug\HW7.exe
+C:\Users\Shelby\Desktop\HW5\HW7\HW7\bin\Debug\HW7.pdb
+C:\Users\Shelby\Desktop\HW5\HW7\HW7\obj\Debug\MonopolyProbability.csproj.CoreCompileInputs.cache
+C:\Users\Shelby\Desktop\HW5\HW7\HW7\obj\Debug\HW7.exe
+C:\Users\Shelby\Desktop\HW5\HW7\HW7\obj\Debug\HW7.pdb
